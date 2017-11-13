@@ -59,6 +59,12 @@ def fib_loop(n): #递推法 O(n),还是通项法较优
         a, b = b, a + b
     return a #不返回所有值，要返回也简单
 
+
+def fib_matr(n): #矩阵计算法：  O(log（n）)
+    import numpy #矩阵推导参见 ‘经典练习汇.doc’
+    return (numpy.matrix([[1, 1], [1, 0]]) ** (n - 1) * numpy.matrix([[1], [0]]))[0, 0]
+
+
 #4,编写一个能将给定非负整数列表中的数字排列成最大数字的函数。例如，给定[50，2，1,9]，最大数字为95021。
 
 def rangeMax(nlst):
