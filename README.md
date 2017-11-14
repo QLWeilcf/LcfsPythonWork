@@ -6,10 +6,10 @@
 
 a Fast Fourier Transform code 
 
-it has: dft idft fft2d ifft2d
+it has: dft idft fft2d ifft2d corner detect-->harris
 
 
-
+---
 ## other little Python code
 
 - **MontyHallSmlt**:  Monty Hall Simulation
