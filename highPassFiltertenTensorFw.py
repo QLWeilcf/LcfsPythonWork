@@ -84,26 +84,6 @@ with tf.Session() as sess:
 
 
 
-'''
-filter_weight = tf.get_variable('weights',
-                                [2, 2, 1, 1], 
-                                initializer = tf.constant_initializer([                                                                       [1, -1],                                                                       [0, 2]]))
-biases = tf.get_variable('biases', 
-                         [1],
-                         initializer = tf.constant_initializer(1))
-'''
-#调整输入矩阵的格式符合TensorFlow的要求，batch=1
-#M = np.asarray(M, dtype='float32')
-#M = M.reshape(1, 3, 3, 1)
-
-#x = tf.placeholder('float32', [1, None, None, 1])
-#conv = tf.nn.conv2d(x, filter_weight, strides = [1, 2, 2, 1], padding = 'SAME')
-#bias = tf.nn.bias_add(conv, biases)
-#pool = tf.nn.avg_pool(x, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding='SAME')
-#with tf.Session() as sess:
-    #tf.global_variables_initializer().run()
-    #将M feed到定义好的操作中
-    #convoluted_M = sess.run(bias,feed_dict={x:M})
 
 '''
 inputImg = tf.Variable([1,x,y,3],dtype='float16')
