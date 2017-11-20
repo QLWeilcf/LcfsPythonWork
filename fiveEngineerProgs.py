@@ -93,7 +93,8 @@ def rangeRealMax(nlst):# 4.1
 def getHundred():
     pass
 #暴力法：八个for循环
-
+def ThreeTimes():
+    pass
 
 if __name__ == '__main__':
     rangeRealMax(range(1,6))
