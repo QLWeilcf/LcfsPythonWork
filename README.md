@@ -8,8 +8,8 @@ a Fast Fourier Transform code
 
 it has: dft idft fft2d ifft2d corner detect-->harris
 
-### c
-
+### splitterImg.ipynb
+分水岭算法进行图像分割。
 
 ---
 ## other little Python code
