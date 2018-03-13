@@ -5,7 +5,8 @@
 中文翻译版: Python数据分析基础
 原作：Clinton W。Brownley
 人民邮电出版社出版，2017年8月第一版。
-![image](http://note.youdao.com/favicon.ico)
+
+![image](./dsIpynbPic/foundationsForAnalyWithPyBookCover.png)
 
 本书关于基础知识的内容很多，作者也说：
 > 本书面向的读者是那些经常使用电子表格软件进行数据处理，但从未写过一行代码的人。
@@ -13,7 +14,7 @@
 
 ### plan
 
-- [x] Day 1 [第1章 Python基础_数据表示]()
+- [x] Day 1 [第1章 Python基础_数据表示](./chpOnePyFoundation.ipynb)
 - [ ] Day 2 第1章 Python基础_数据结构与文件读写
 - [ ] Day 3 第2章 CSV文件
 - [ ] Day 4 第3章 Excel文件
