@@ -31,8 +31,8 @@
 
 #### 简书版
 
-- [x] Day 1 [第1章 Python基础_数据表示]()
-- [x] Day 2 [第1章 Python基础_数据结构与文件读写]()
+- [x] Day 1 [第1章 Python基础_数据表示](https://www.jianshu.com/p/00f763de8752)
+- [x] Day 2 [第1章 Python基础_数据结构与文件读写](https://www.jianshu.com/p/d357d0e87a41)
 - [ ] Day 3 第2章 CSV文件
 - [ ] Day 4 第3章 Excel文件
 - [ ] Day 5 第4章 数据库_sqlite3学习与深入
