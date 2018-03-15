@@ -16,7 +16,7 @@
 
 - [x] Day 1 [第1章 Python基础_数据表示](./chpOnePyFoundation.ipynb)
 - [x] Day 2 [第1章 Python基础_数据结构与文件读写](https://github.com/QLWeilcf/cunyu/blob/master/chpOneDataContainer.ipynb)
-- [ ] Day 3 第2章 CSV文件
+- [ ] Day 3 [第2章 CSV文件](https://github.com/QLWeilcf/cunyu/blob/master/chpTwoRWcsvData.ipynb)
 - [ ] Day 4 第3章 Excel文件
 - [ ] Day 5 第4章 数据库_sqlite3学习与深入
 - [ ] Day 6 第4章 数据库_MySQL
@@ -33,7 +33,7 @@
 
 - [x] Day 1 [第1章 Python基础_数据表示](https://www.jianshu.com/p/00f763de8752)
 - [x] Day 2 [第1章 Python基础_数据结构与文件读写](https://www.jianshu.com/p/d357d0e87a41)
-- [ ] Day 3 第2章 CSV文件
+- [ ] Day 3 [第2章 CSV文件](https://www.jianshu.com/p/78f13ad85859)
 - [ ] Day 4 第3章 Excel文件
 - [ ] Day 5 第4章 数据库_sqlite3学习与深入
 - [ ] Day 6 第4章 数据库_MySQL
