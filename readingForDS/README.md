@@ -17,7 +17,7 @@
 - [x] Day 1 [第1章 Python基础_数据表示](./chpOnePyFoundation.ipynb)
 - [x] Day 2 [第1章 Python基础_数据结构与文件读写](https://github.com/QLWeilcf/cunyu/blob/master/chpOneDataContainer.ipynb)
 - [x] Day 3 [第2章 CSV文件](./chpTwoRWcsvData.ipynb)
-- [ ] Day 4 第3章 Excel文件
+- [x] Day 4 [第3章 Excel文件](./chpThreeRWExcel.ipynb)
 - [ ] Day 5 第4章 数据库_sqlite3学习与深入
 - [ ] Day 6 第4章 数据库_MySQL
 - [ ] Day 7 第5章 应用程序
@@ -34,7 +34,7 @@
 - [x] Day 1 [第1章 Python基础_数据表示](https://www.jianshu.com/p/00f763de8752)
 - [x] Day 2 [第1章 Python基础_数据结构与文件读写](https://www.jianshu.com/p/d357d0e87a41)
 - [x] Day 3 [第2章 CSV文件](https://www.jianshu.com/p/78f13ad85859)
-- [ ] Day 4 第3章 Excel文件
+- [x] Day 4 [第3章 Excel文件](https://www.jianshu.com/p/49f30e298d99)
 - [ ] Day 5 第4章 数据库_sqlite3学习与深入
 - [ ] Day 6 第4章 数据库_MySQL
 - [ ] Day 7 第5章 应用程序
@@ -46,5 +46,8 @@
 - [ ] Day 13 关联分析_Apriori
 - [ ] Day 14 关联分析_FP Tree  3月26号
 
+### 笔记中涉及到的数据
+- [supplier_data.csv](./supplier_data.csv) 第2章 CSV文件读写用到的数据
+- [sales_2015.xlsx](./sales_2015.xlsx)  第3章 Excel文件读写用到的数据
 
 
