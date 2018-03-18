@@ -3,7 +3,7 @@
 
 原书名: Foundations for Analysis with Python
 中文翻译版: Python数据分析基础
-原作：Clinton W。Brownley
+原作：Clinton W. Brownley
 人民邮电出版社出版，2017年8月第一版。
 
 ![image](./dsIpynbPic/foundationsForAnalyWithPyBookCover.png)
@@ -14,12 +14,12 @@
 
 ### plan
 
-- [x] Day 1 [第1章 Python基础_数据表示](./chpOnePyFoundation.ipynb)
+- [x] Day 1 [第1章 Python基础_数据表示](./chpOnePyFoundation.ipynb)  
 - [x] Day 2 [第1章 Python基础_数据结构与文件读写](https://github.com/QLWeilcf/cunyu/blob/master/chpOneDataContainer.ipynb)
 - [x] Day 3 [第2章 CSV文件](./chpTwoRWcsvData.ipynb)
 - [x] Day 4 [第3章 Excel文件](./chpThreeRWExcel.ipynb)
-- [ ] Day 5 [第4章 数据库_sqlite3学习与深入](./chpFourDBsqlite.ipynb)
-- [ ] Day 6 第4章 数据库_MySQL
+- [x] Day 5 [第4章 数据库_sqlite3学习与深入](./chpFourDBsqlite.ipynb)
+- [x] Day 6 [第4章 数据库_MySQL](./chpFourdbMySQL.ipynb) 
 - [ ] Day 7 第5章 应用程序
 - [ ] Day 8 第6章 图与图表_matplotlib
 - [ ] Day 9 第6章 图与图表_其他可视化库
@@ -35,8 +35,8 @@
 - [x] Day 2 [第1章 Python基础_数据结构与文件读写](https://www.jianshu.com/p/d357d0e87a41)
 - [x] Day 3 [第2章 CSV文件](https://www.jianshu.com/p/78f13ad85859)
 - [x] Day 4 [第3章 Excel文件](https://www.jianshu.com/p/49f30e298d99)
-- [ ] Day 5 [第4章 数据库_sqlite3学习与深入](https://www.jianshu.com/p/57f36c5a4b3a)
-- [ ] Day 6 第4章 数据库_MySQL
+- [x] Day 5 [第4章 数据库_sqlite3学习与深入](https://www.jianshu.com/p/57f36c5a4b3a)
+- [x] Day 6 [第4章 数据库_MySQL](https://www.jianshu.com/p/6d45437eba3c)  
 - [ ] Day 7 第5章 应用程序
 - [ ] Day 8 第6章 图与图表_matplotlib
 - [ ] Day 9 第6章 图与图表_其他可视化库
@@ -47,7 +47,7 @@
 - [ ] Day 14 关联分析_FP Tree  3月26号
 
 ### 笔记中涉及到的数据
-- [supplier_data.csv](./supplier_data.csv) 第2章 CSV文件读写用到的数据
-- [sales_2015.xlsx](./sales_2015.xlsx)  第3章 Excel文件读写用到的数据
-
+- [supplier_data.csv](./supplier_data.csv) 第2章 CSV文件读写 用到的数据
+- [sales_2015.xlsx](./sales_2015.xlsx)  第3章 Excel文件读写 用到的数据
+- [mysql_server_error_log.txt](https://github.com/cbrownley/foundations-for-analytics-with-python/blob/master/applications/mysql_server_error_log.txt) 第4章 数据库_MySQL 用到的数据
 
