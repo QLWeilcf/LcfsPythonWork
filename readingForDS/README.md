@@ -20,7 +20,7 @@
 - [x] Day 4 [第3章 Excel文件](./chpThreeRWExcel.ipynb)   #3.16
 - [x] Day 5 [第4章 数据库_sqlite3学习与深入](./chpFourDBsqlite.ipynb)   #3.17
 - [x] Day 6 [第4章 数据库_MySQL](./chpFourdbMySQL.ipynb)  #3.18
-- [ ] Day 7 第5章 应用程序
+- [x] Day 7 [第5章 应用程序](chpFiveSmallApplct)  #3.19
 - [ ] Day 8 第6章 图与图表_matplotlib
 - [ ] Day 9 第6章 图与图表_其他可视化库
 - [ ] Day 10 第7章 描述性统计建模
@@ -37,7 +37,7 @@
 - [x] Day 4 [第3章 Excel文件](https://www.jianshu.com/p/49f30e298d99)
 - [x] Day 5 [第4章 数据库_sqlite3学习与深入](https://www.jianshu.com/p/57f36c5a4b3a)
 - [x] Day 6 [第4章 数据库_MySQL](https://www.jianshu.com/p/6d45437eba3c)  
-- [ ] Day 7 第5章 应用程序
+- [x] Day 7 [第5章 应用程序](https://www.jianshu.com/p/825a658cd263)
 - [ ] Day 8 第6章 图与图表_matplotlib
 - [ ] Day 9 第6章 图与图表_其他可视化库
 - [ ] Day 10 第7章 描述性统计建模
@@ -49,7 +49,7 @@
 ### 笔记中涉及到的数据
 - [supplier_data.csv](./supplier_data.csv) 第2章 CSV文件读写 用到的数据
 - [sales_2015.xlsx](./sales_2015.xlsx)  第3章 Excel文件读写 用到的数据
-- [mysql_server_error_log.txt](https://github.com/cbrownley/foundations-for-analytics-with-python/blob/master/applications/mysql_server_error_log.txt) 第4章 数据库_MySQL 用到的数据
+- [mysql_server_error_log.txt](https://github.com/cbrownley/foundations-for-analytics-with-python/blob/master/applications/mysql_server_error_log.txt) 第5章 应用程序 用到的数据
 
 
 ---
