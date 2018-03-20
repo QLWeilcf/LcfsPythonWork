@@ -20,8 +20,8 @@
 - [x] Day 4 [第3章 Excel文件](./chpThreeRWExcel.ipynb)   #3.16
 - [x] Day 5 [第4章 数据库_sqlite3学习与深入](./chpFourDBsqlite.ipynb)   #3.17
 - [x] Day 6 [第4章 数据库_MySQL](./chpFourdbMySQL.ipynb)  #3.18
-- [x] Day 7 [第5章 应用程序](chpFiveSmallApplct)  #3.19
-- [ ] Day 8 第6章 图与图表_matplotlib
+- [x] Day 7 [第5章 应用程序](./chpFiveSmallApplct.ipynb)  #3.19
+- [x] Day 8 [第6章 图与图表_matplotlib](./chpSixChartsPlot..ipynb)  #3.20
 - [ ] Day 9 第6章 图与图表_其他可视化库
 - [ ] Day 10 第7章 描述性统计建模
 - [ ] Day 11 第8章 按计划自动运行脚本
@@ -38,7 +38,7 @@
 - [x] Day 5 [第4章 数据库_sqlite3学习与深入](https://www.jianshu.com/p/57f36c5a4b3a)
 - [x] Day 6 [第4章 数据库_MySQL](https://www.jianshu.com/p/6d45437eba3c)  
 - [x] Day 7 [第5章 应用程序](https://www.jianshu.com/p/825a658cd263)
-- [ ] Day 8 第6章 图与图表_matplotlib
+- [x] Day 8 [第6章 图与图表_matplotlib](https://www.jianshu.com/p/cd3a13e0d302)
 - [ ] Day 9 第6章 图与图表_其他可视化库
 - [ ] Day 10 第7章 描述性统计建模
 - [ ] Day 11 第8章 按计划自动运行脚本
