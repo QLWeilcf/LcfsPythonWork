@@ -23,8 +23,8 @@
 - [x] Day 7 [第5章 应用程序](./chpFiveSmallApplct.ipynb)  #3.19
 - [x] Day 8 [第6章 图与图表_matplotlib](./chpSixChartsPlot.ipynb)  #3.20
 - [x] Day 9 [第6章 图与图表_其他可视化库](./chpSixChartsVis.ipynb)   #3.21
-- [ ] Day 10 第7章 描述性统计建模
-- [ ] Day 11 第8章 按计划自动运行脚本
+- [x] Day 10 [第7章 描述性统计建模](./chpSevenDescStat.ipynb)   #3.22
+- [x] Day 11 [第8章 按计划自动运行脚本](./chpEightAutoScripts.ipynb)   #3.23
 - [ ] Day 12 第9章 从这里启航_更多模块和数据结构
 - [ ] Day 13 关联分析_Apriori
 - [ ] Day 14 关联分析_FP Tree  #3.26
@@ -40,8 +40,8 @@
 - [x] Day 7 [第5章 应用程序](https://www.jianshu.com/p/825a658cd263)
 - [x] Day 8 [第6章 图与图表_matplotlib](https://www.jianshu.com/p/cd3a13e0d302)
 - [x] Day 9 [第6章 图与图表_其他可视化库](https://www.jianshu.com/p/d7ad5434f5a2)
-- [ ] Day 10 第7章 描述性统计建模
-- [ ] Day 11 第8章 按计划自动运行脚本
+- [x] Day 10 第7章 [描述性统计建模](https://www.jianshu.com/p/73d81407587c)
+- [x] Day 11 第8章 [按计划自动运行脚本](https://www.jianshu.com/p/ea5cd671b662)
 - [ ] Day 12 第9章 从这里启航_更多模块和数据结构
 - [ ] Day 13 关联分析_Apriori
 - [ ] Day 14 关联分析_FP Tree  3月26号
