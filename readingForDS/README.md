@@ -42,7 +42,7 @@
 - [x] Day 9 [第6章 图与图表_其他可视化库](https://www.jianshu.com/p/d7ad5434f5a2)
 - [x] Day 10 第7章 [描述性统计建模](https://www.jianshu.com/p/73d81407587c)
 - [x] Day 11 第8章 [按计划自动运行脚本](https://www.jianshu.com/p/ea5cd671b662)
-- [ ] Day 12 第9章 从这里启航_更多模块和数据结构
+- [x] Day 12 [第9章 从这里启航_更多模块和数据结构](https://www.jianshu.com/p/28856f16d428)
 - [ ] Day 13 关联分析_Apriori
 - [ ] Day 14 关联分析_FP Tree  3月26号
 
