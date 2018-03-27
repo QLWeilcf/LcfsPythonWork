@@ -25,9 +25,9 @@
 - [x] Day 9 [第6章 图与图表_其他可视化库](./chpSixChartsVis.ipynb)   #3.21
 - [x] Day 10 [第7章 描述性统计建模](./chpSevenDescStat.ipynb)   #3.22
 - [x] Day 11 [第8章 按计划自动运行脚本](./chpEightAutoScripts.ipynb)   #3.23
-- [ ] Day 12 第9章 从这里启航_更多模块和数据结构
-- [ ] Day 13 关联分析_Apriori
-- [ ] Day 14 关联分析_FP Tree  #3.26
+- [x] Day 12 [第9章 从这里启航_更多模块和数据结构](./chpNineSetSail.ipynb)   #3.24
+- [x] Day 13 [关联分析_Apriori](./chpTenCorAnlyApriori.ipynb)  #3.25
+- [x] Day 14 [关联分析_FP Tree](./chpTenCorAnlyFPTree.ipynb)  #3.26
 
 #### 简书版
 
@@ -43,8 +43,8 @@
 - [x] Day 10 [第7章 描述性统计建模](https://www.jianshu.com/p/73d81407587c)
 - [x] Day 11 [第8章 按计划自动运行脚本](https://www.jianshu.com/p/ea5cd671b662)
 - [x] Day 12 [第9章 从这里启航_更多模块和数据结构](https://www.jianshu.com/p/28856f16d428)
-- [ ] Day 13 关联分析_Apriori
-- [ ] Day 14 关联分析_FP Tree  3月26号
+- [x] Day 13 [关联分析_Apriori](https://www.jianshu.com/p/5cc6b3f34afc)
+- [x] Day 14 [关联分析_FP Tree  3月26号](https://www.jianshu.com/p/a3c97d868a5b)
 
 ### 笔记中涉及到的数据
 - [supplier_data.csv](./supplier_data.csv) 第2章 CSV文件读写 用到的数据
