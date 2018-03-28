@@ -44,7 +44,7 @@
 - [x] Day 11 [第8章 按计划自动运行脚本](https://www.jianshu.com/p/ea5cd671b662)
 - [x] Day 12 [第9章 从这里启航_更多模块和数据结构](https://www.jianshu.com/p/28856f16d428)
 - [x] Day 13 [关联分析_Apriori](https://www.jianshu.com/p/5cc6b3f34afc)
-- [x] Day 14 [关联分析_FP Tree  3月26号](https://www.jianshu.com/p/a3c97d868a5b)
+- [x] Day 14 [关联分析_FP Tree](https://www.jianshu.com/p/a3c97d868a5b)
 
 ### 笔记中涉及到的数据
 - [supplier_data.csv](./supplier_data.csv) 第2章 CSV文件读写 用到的数据
