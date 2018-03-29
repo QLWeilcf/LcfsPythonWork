@@ -1,10 +1,10 @@
 # LcfsPythonWork
 
-## this repository for Image Processing
-
-### readingForDS
+### readingForDS  Data Science Reading Notes
 
 reading Data Science Books 
+
+NOW THERE ARE 14 NOTES
 
 ### fft2dWithPy.py
 
