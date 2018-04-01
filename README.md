@@ -5,7 +5,7 @@
 reading Data Science Books 
 
 NOW THERE ARE 14 NOTES
-
+- [x] Foundations for Analysis with Python
 ### fft2dWithPy.py
 
 a Fast Fourier Transform code 
