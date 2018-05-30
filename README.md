@@ -15,6 +15,14 @@ it has: dft idft fft2d ifft2d corner detect-->harris
 ### splitterImg.ipynb
 分水岭算法进行图像分割。
 
+
+## not Write In Jupyter Project
+- [pingpongNums](https://github.com/QLWeilcf/pingpongNums) 用Python求出乒乓数
+- [lcfSpyderWithPy3](https://github.com/QLWeilcf/lcfSpyderWithPy3)
+ 
+
+
+
 ---
 ## other little Python code
 
