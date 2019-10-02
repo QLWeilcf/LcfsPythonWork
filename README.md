@@ -20,7 +20,7 @@ it has: dft idft fft2d ifft2d corner detect-->harris
 - [pingpongNums](https://github.com/QLWeilcf/pingpongNums) 用Python求出乒乓数
 - [lcfSpyderWithPy3](https://github.com/QLWeilcf/lcfSpyderWithPy3)
  
-
+- [waterTankSimulator.py](./waterTankSimulator.py)模拟水缸倒水问题
 
 
 ---
